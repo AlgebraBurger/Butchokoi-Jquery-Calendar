@@ -1,5 +1,6 @@
 $(document).ready(function(){
-
+  //author: julius bacosa
+  //website: philippinebestwebdesign.com
   var events = [
     { date:1, name:"Event 1 a"},
     { date:1, name:"Event 1 b"},
